@@ -1,3 +1,3 @@
-# Big-Data-Analytics
-Big Data Analysis Hadoop
-Coursera Introduction to Big Data Analytics by University of California, San Diego
+# Big-Data-Analytics Project
+Big Data Analysis: Hadoop, ...
+University of California, San Diego
